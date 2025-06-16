@@ -43,7 +43,7 @@ const Contact = () => {
     {
       icon: <Github size={24} />,
       name: "GitHub",
-      url: "https://github.com",
+      url: "https://github.com/stewartvon",
       color: "hover:text-gray-400"
     },
     {

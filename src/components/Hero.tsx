@@ -66,13 +66,10 @@ const Hero = () => {
 
           {/* Social Links with 3D Effect */}
           <div className="flex justify-center gap-6 mb-12">
-            <a href="#" className="p-3 bg-gray-800/50 rounded-full hover:bg-blue-600 transform hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 backdrop-blur-sm">
+            <a href="http://github.com/stewartvon" className="p-3 bg-gray-800/50 rounded-full hover:bg-blue-600 transform hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 backdrop-blur-sm">
               <Github size={24} />
             </a>
-            <a href="#" className="p-3 bg-gray-800/50 rounded-full hover:bg-blue-600 transform hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 backdrop-blur-sm">
-              <Linkedin size={24} />
-            </a>
-            <a href="#" className="p-3 bg-gray-800/50 rounded-full hover:bg-purple-600 transform hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/25 backdrop-blur-sm">
+            <a href="mailto:stewartvon975@gmail.com" className="p-3 bg-gray-800/50 rounded-full hover:bg-purple-600 transform hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/25 backdrop-blur-sm">
               <Mail size={24} />
             </a>
           </div>
